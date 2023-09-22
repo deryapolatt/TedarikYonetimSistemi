@@ -19,3 +19,5 @@ Müşteri Kullanıcı Tipi İle Giriş Yapıldığında Karşılayan Ekran:
 ![Giriş Ekranı](https://github.com/deryapolatt/TedarikYonetimSistemi/blob/master/tys3.PNG)
 
 
+Proje geliştirilirken .NET platformu, windows forms ve veri tabanı için MSSQL kullanılmıştır.
+
