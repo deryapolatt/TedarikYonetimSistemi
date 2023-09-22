@@ -5,3 +5,7 @@ zaman kazandırmak, maliyetleri düşürmek ve karlılığı artırmak için ted
 verimli bir iş birliği sağlamaktır.
 
 
+
+![Giriş Ekranı](https://github.com/deryapolatt/TedarikYonetimSistemi/blob/master/tys1.PNG)
+
+
